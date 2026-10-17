@@ -26,5 +26,11 @@ Features:
 
 *New features will be added, stuff like other flying animal/insects and way more precise math.
 
+The math used:
+
+Ok, this was probably the hardest part, i mean im in 3rd ESO (9th grade) right now, the hardest things in math are basic algebra concepts and fraction. So the shift was insane. I actually wanted to understand the formulas, and which ones to use. 
+
+I basically used the base formulas of lift, drag and thrust, and using the mean of numbers that are constantly changing in real life, stuff like the coefficient of lift and drag, the velocity of the wings, all these things vary alot during the actual flight of a butterfly, but i believe "cutting corners" like this is completely fine, since this is an accurate simulation, but its still just a "game", simplified aerodynamics to show the physics behind butterflies.
+
 My future plans for this project: I want a step by step guide on how to make the cheapest bionic butterfly possible, in 3d. And drastically improve the math and code ofcourse.
 
