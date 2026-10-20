@@ -15,6 +15,8 @@ This is where i am struggling to do my own animations, so it doesnt look like my
 
 AFTER:
 
+<img width="402" height="451" alt="Screenshot 2026-10-19 080045" src="https://github.com/user-attachments/assets/f0c1ad3a-3ef0-43e9-8873-68b46d8ff94b" />
+
 
 Features:
 
